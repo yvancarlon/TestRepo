@@ -2,3 +2,7 @@ This is just a test text file.. :) And im learning how to use Github..
 
 
 HELLO WORLD
+
+Im am now aading a new line in this edited text file
+
+gutom na kaayo huhuhu :(
