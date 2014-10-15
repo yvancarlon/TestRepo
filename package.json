@@ -1,0 +1,22 @@
+{
+  "name": "Testing",
+  "version": "1.0.0",
+  "description": "Testing with grunt",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yvancarlon/TestRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvancarlon/TestRepo/issues"
+  },
+  "homepage": "https://github.com/yvancarlon/TestRepo",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
